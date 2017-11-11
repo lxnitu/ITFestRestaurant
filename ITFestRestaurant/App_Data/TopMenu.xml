@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<items>
+  <item Text="Home" NavigateUrl="#" />
+  <item Text="Messages" NavigateUrl="~\Pages\Schedule\Messages.aspx"  />
+  <item Text="Schedule" NavigateUrl="~\Pages\Schedule\Calendar.aspx"  />
+  <item Text="Tables" NavigateUrl="~\Pages\Administration\Tables.aspx"  />
+</items>
